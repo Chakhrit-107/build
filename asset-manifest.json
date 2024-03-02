@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc7efd46.css",
+    "main.js": "/static/js/main.61e53746.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/vowels.png": "/static/media/vowels.13ddc213315527676037.png",
+    "static/media/consonants.png": "/static/media/consonants.44142f9e4d5a365baddd.png",
+    "static/media/imageBorder.png": "/static/media/imageBorder.487b0e1db497ccf129ba.png",
+    "static/media/matchingGame.png": "/static/media/matchingGame.f18d9da357c989912a92.png",
+    "static/media/simulationGame.png": "/static/media/simulationGame.7dff644280d2fcc82282.png",
+    "index.html": "/index.html",
+    "main.dc7efd46.css.map": "/static/css/main.dc7efd46.css.map",
+    "main.61e53746.js.map": "/static/js/main.61e53746.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7efd46.css",
+    "static/js/main.61e53746.js"
+  ]
+}
