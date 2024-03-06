@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dc7efd46.css",
-    "main.js": "/static/js/main.7a23c42b.js",
+    "main.js": "/static/js/main.40cfce52.js",
     "static/js/511.b9b14af9.chunk.js": "/static/js/511.b9b14af9.chunk.js",
     "static/media/vowels.png": "/static/media/vowels.13ddc213315527676037.png",
     "static/media/consonants.png": "/static/media/consonants.44142f9e4d5a365baddd.png",
@@ -10,11 +10,11 @@
     "static/media/simulationGame.png": "/static/media/simulationGame.7dff644280d2fcc82282.png",
     "index.html": "/index.html",
     "main.dc7efd46.css.map": "/static/css/main.dc7efd46.css.map",
-    "main.7a23c42b.js.map": "/static/js/main.7a23c42b.js.map",
+    "main.40cfce52.js.map": "/static/js/main.40cfce52.js.map",
     "511.b9b14af9.chunk.js.map": "/static/js/511.b9b14af9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc7efd46.css",
-    "static/js/main.7a23c42b.js"
+    "static/js/main.40cfce52.js"
   ]
 }
